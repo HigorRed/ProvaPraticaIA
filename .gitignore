@@ -1,0 +1,11 @@
+# .gitignore para .NET Coremv <pasta_do_projeto> api-csharp/
+
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
