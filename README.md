@@ -18,9 +18,9 @@ Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários de um
 - SQL Server configurado
 
 ### Comandos para executar no terminal 
-1. No diretório api-csharp, execute:
- dotnet restore
- dotnet run
+1. No diretório api-csharp.
+2.  execute: dotnet restore
+   dotnet run
 
 ## Passos para executar o cliente em Python
 
@@ -29,8 +29,8 @@ Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários de um
 - Bibliotecas requests instaladas
 
 ### Comandos para executar no terminal 
-1. No diretório cliente-python, execute:
- python app.py
+1. No diretório cliente-python.
+2.  execute: python app.py
 
 
 Exemplo de chamadas e respostas da API
