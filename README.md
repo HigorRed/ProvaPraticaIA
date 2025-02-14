@@ -19,7 +19,6 @@ Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários e for
 
 ### Comandos para executar no terminal 
 1. No diretório api-csharp, execute:
-   ```bash
  dotnet restore
  dotnet run
 
@@ -31,7 +30,6 @@ Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários e for
 
 ### Comandos para executar no terminal 
 1. No diretório cliente-python, execute:
-   ```bash
  python app.py
 
 
