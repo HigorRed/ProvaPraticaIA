@@ -2,7 +2,7 @@
 
 ## Objetivo do projeto
 
-Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários e fornecer informações categorizadas (jovem, adulto, idoso). O cliente Python consome a API e exibe os dados.
+Desenvolvimento de uma API em C# com ASP.NET Core para gerenciar usuários de um arquivo csv e fornecer informações como ID,Nome,Idade,Cidade,Profissão. O cliente Python consome a API e exibe os dados categorizados com o adicional de informação  (jovem <30 anos , adulto 30 a 40 anos, senior >40 anos )
 
 ## Tecnologias utilizadas
 
